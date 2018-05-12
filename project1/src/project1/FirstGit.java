@@ -22,7 +22,7 @@ System.out.println("Jay Hasan");
 		System.out.println("Future Automation Engineers");
 
 		System.out.println("Nahin");
->>>>>>> branch 'master' of https://github.com/talentek/project1.git
+
 
 		
 		System.out.println("Rihanna");
